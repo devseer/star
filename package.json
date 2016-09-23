@@ -1,0 +1,9 @@
+{
+  "name": "star",
+  "version": "1.0.0",
+
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-concat": "*"
+  }
+}
